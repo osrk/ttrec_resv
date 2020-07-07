@@ -15,7 +15,7 @@ Git Bash をインストールしてあること。
 
 1. `ttrec_recv.pl`, `ttrec_resv_pl.sh` を適当なフォルダに置く。
 2. `ttrec_resv_pl.sh` へのショートカットを使いやすい場所に作成する。
-3. ショートカットのプロパティを編集し、リンク先」に次の内容を入力する
+3. ショートカットを右クリックしてプロパティを編集し、「リンク先」に次の内容を入力する
    ```
    "C:\Program Files\Git\bin\sh.exe" -l "C:\soft\TTRec_Resv\ttrec_resv_pl.sh"
    ```
